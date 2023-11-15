@@ -1,4 +1,4 @@
 Project: 'SimulacionTesis' created on 2023-10-23
-Author: John Doe <john.doe@example.com>
+Author: Ronald Pico <ronald_pico@hotmail.com>
 
 No project description was given
